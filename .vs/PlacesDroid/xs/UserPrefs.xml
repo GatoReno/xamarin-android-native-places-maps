@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A0B4A356-CA3E-4010-8FC8-7734302EDF23}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlacesDroid/Resources/layout/content_main.xml">
+    <Files>
+      <File FileName="PlacesDroid/MainActivity.cs" Line="68" Column="1" />
+      <File FileName="PlacesDroid/Resources/layout/content_main.xml" Line="25" Column="34" />
+      <File FileName="PlacesDroid/Properties/AndroidManifest.xml" Line="3" Column="37" />
+      <File FileName="PlacesDroid/Resources/layout/activity_main.xml" Line="8" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlacesDroid" expanded="True">
+            <Node name="PlacesDroid" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="content_main.xml" selected="True" />
+                </Node>
+                <Node name="menu" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PlacesDroid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dmn/Projects/PlacesDroid/PlacesDroid/MainActivity.cs" relfile="PlacesDroid/MainActivity.cs" line="81" column="1" />
+      <Breakpoint file="/Users/dmn/Projects/PlacesDroid/PlacesDroid/MainActivity.cs" relfile="PlacesDroid/MainActivity.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
